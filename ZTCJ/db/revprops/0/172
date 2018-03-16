@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-05T06:33:08.485342Z
+K 7
+svn:log
+V 96
+2017.9.5：
+1、KLineController加上cutCount，个人中心头像可点击跳转到个人中心
+END

@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-22T08:28:32.381855Z
+K 7
+svn:log
+V 115
+2017.8.22：
+1、格式化DataFormatter,新增涨跌幅格式化方法
+2、研报公司logo与公司名称拆分开
+END

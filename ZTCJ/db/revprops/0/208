@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-25T03:23:43.800119Z
+K 7
+svn:log
+V 116
+2017.9.25：
+1、解决测试bug{
+  1、PDF加载中(是否可以点击)，cpu类型在变化导致重新下载apk
+}
+END

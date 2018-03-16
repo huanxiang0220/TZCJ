@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-14T12:01:45.883969Z
+K 7
+svn:log
+V 101
+2017.8.14：k线label跳转、去掉全部加载更多完毕(notifyInsert改成notifyAll)后期处理
+END

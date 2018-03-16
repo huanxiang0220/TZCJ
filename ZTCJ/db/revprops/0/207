@@ -1,0 +1,21 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-22T09:04:43.156939Z
+K 7
+svn:log
+V 288
+2017.9.22：
+1、解决测试bug{
+  1、CircleImageView与Glide搭配时第一次不刷新图片的bug，
+       解决方案：
+               加上.dontAnimate()
+               into(new SimpleTarget<GlideDrawable>(){
+                   imageView.setImageDrawable();
+               })
+}
+END

@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2018-02-09T03:00:51.067752Z
+K 7
+svn:log
+V 144
+2018.2.9: 升级更新采用 android8.0的备份（MainActivity、SettingActivity、MyUpdateManager、
+UpdateAppEvent，targetSdkVersion = 26）
+END

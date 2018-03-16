@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-24T04:57:55.387643Z
+K 7
+svn:log
+V 115
+2017.8.24：
+1、Y轴label固定成五位
+2、解决分时图红涨绿跌，绿涨红跌成交量的颜色的错误
+END

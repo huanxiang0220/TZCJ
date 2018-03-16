@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-23T11:56:59.188530Z
+K 7
+svn:log
+V 111
+2017.8.23：
+1、解决公司简介(公司简介有些手机不能收缩的bug) -- 将两个item合并成一个
+END

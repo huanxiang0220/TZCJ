@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-11-03T11:11:29.824132Z
+K 7
+svn:log
+V 149
+2017.11.2：
+1、解决不通applicationId不能安装在同一个手机上的bug(应用组件的命名与已安装应用有冲突)
+2、修改弹框
+
+END

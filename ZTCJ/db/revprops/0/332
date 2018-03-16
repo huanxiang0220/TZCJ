@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2018-01-30T03:44:07.306284Z
+K 7
+svn:log
+V 107
+2017.1.30： 
+机会调整：GGTCCBDActivity在onDestroy取消网络，ExpandableTextView数组越界异常
+END

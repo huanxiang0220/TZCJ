@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-20T10:11:49.858878Z
+K 7
+svn:log
+V 178
+2017.9.20：
+1、解决测试bug{
+  1、KPostActivity添加多种不支持的类型时，吊起第三方APP打开
+  2、去掉状态栏黑色，全白色(专题和作者专栏)
+}
+END

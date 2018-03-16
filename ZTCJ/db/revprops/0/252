@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-10-27T09:33:17.698380Z
+K 7
+svn:log
+V 108
+2017.10.27：
+1、onResponse()：成功之后要修改将要缓存的字符串中的声音和震动的状态
+END

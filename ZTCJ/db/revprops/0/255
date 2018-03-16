@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-10-30T10:18:26.452202Z
+K 7
+svn:log
+V 293
+2017.10.30：
+1、WebView：handlerSslError();加入Activity参数
+2、加入初始化声音、震动的初始化值
+3、KBigChart将默认一个月显示成更多
+4、推送设置顶部布局放在分类头布局中，利用position做判断显示与否
+5、UsWebActivity加入打电话回调
+END

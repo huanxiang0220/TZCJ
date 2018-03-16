@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-11-07T12:24:30.749629Z
+K 7
+svn:log
+V 104
+2017.11.7：
+1、衍生品去掉成交额万，弹出框添加当前tab字再次点击关闭框的判断
+END

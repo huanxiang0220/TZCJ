@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2018-01-16T07:03:53.922609Z
+K 7
+svn:log
+V 84
+2017.1.16：
+1、解决双列表阴影（在左适配器中加入ShadowDivideView）
+END

@@ -1,0 +1,25 @@
+K 12
+build.gradle
+V 16
+file 3-2.0.r2/75
+K 4
+libs
+V 15
+dir 5-2.0.r2/76
+K 18
+proguard-rules.pro
+V 16
+file 6-2.0.r2/77
+K 3
+src
+V 16
+dir 7-2.0.r2/194
+END
+K 10
+.gitignore
+V 15
+file _65.0.t4-4
+K 14
+refreshlib.iml
+V 15
+file _67.0.t4-4

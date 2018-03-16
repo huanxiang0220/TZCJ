@@ -1,0 +1,17 @@
+K 8
+branches
+V 14
+dir 0-1.0.r1/3
+K 4
+tags
+V 14
+dir 2-1.0.r1/4
+K 5
+trunk
+V 16
+dir 3-1.0.r4/116
+END
+K 5
+trunk
+V 14
+dir 3-1.0.t4-4

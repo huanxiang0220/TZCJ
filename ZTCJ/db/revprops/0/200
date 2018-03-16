@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-21T09:55:59.286819Z
+K 7
+svn:log
+V 257
+2017.9.20：
+1、解决测试bug{
+  1、指数的分时、五日去掉成交额的股，成交额修正
+  2、股票行情点击刷新按钮连同底部分类也刷新。
+      目前只刷新指数的分类(在ScrollableHelper内部接口添加onRefresh)
+}
+END

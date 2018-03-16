@@ -1,0 +1,486 @@
+_1.0.t4-4 add-dir false false false /trunk/.gradle
+
+_3.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1
+
+_5.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/taskArtifacts
+
+_7.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/cache.properties
+
+_9.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/cache.properties.lock
+
+_9.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/taskArtifacts/cache.properties.lock
+
+_a.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/fileHashes.bin
+
+_a.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/taskArtifacts/fileHashes.bin
+
+_b.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin
+
+_b.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin
+
+_c.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin
+
+_c.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin
+
+_d.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin
+
+_d.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin
+
+_e.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks
+
+_f.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac
+
+_h.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_j.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_j.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_l.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_l.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_m.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_n.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_n.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_p.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_p.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_q.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac
+
+_r.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_t.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_t.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_v.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_v.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_w.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_x.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_x.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_z.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_z.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_10.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac
+
+_11.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_13.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_13.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_15.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_15.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_16.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_17.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_17.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_19.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_19.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_1a.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac
+
+_1b.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_1d.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1d.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1f.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1f.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1g.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_1h.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_1h.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_1j.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_1j.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_1k.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac
+
+_1l.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_1n.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1n.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1p.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1p.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1q.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_1r.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_1r.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_1t.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_1t.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_1u.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac
+
+_1v.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_1x.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1x.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_1z.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1z.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_20.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_21.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_21.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_23.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_23.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_24.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac
+
+_25.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_27.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_27.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_29.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_29.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_2a.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_2b.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2b.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2d.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2d.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2e.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac
+
+_2f.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_2h.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_2h.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_2j.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_2j.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_2k.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_2l.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2l.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2n.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2n.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2o.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac
+
+_2p.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_2r.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_2r.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_2t.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_2t.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_2u.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_2v.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2v.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_2x.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2x.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_2y.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac
+
+_2z.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_31.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_31.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_33.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_33.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_34.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_35.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_35.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_37.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_37.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_38.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac
+
+_39.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localClassSetAnalysis
+
+_3b.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_3b.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_3d.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_3d.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_3e.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localJarClasspathSnapshot
+
+_3f.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_3f.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_3h.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_3h.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_3i.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac
+
+_3j.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localClassSetAnalysis
+
+_3l.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_3l.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_3n.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_3n.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_3o.0.t4-4 add-dir false false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot
+
+_3p.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_3p.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_3r.0.t4-4 add-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_3r.0.t4-4 modify-file false true false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_3s.0.t4-4 add-dir false false false /trunk/CalendarLib
+
+_3t.0.t4-4 add-file true false false /trunk/CalendarLib/.gitignore
+
+_3v.0.t4-4 add-file true false false /trunk/CalendarLib/CalendarLib.iml
+
+_3w.0.t4-4 add-file true false false /trunk/CalendarLib/build.gradle
+
+_3x.0.t4-4 add-file true false false /trunk/CalendarLib/library.iml
+
+_3y.0.t4-4 add-file true false false /trunk/CalendarLib/proguard-rules.pro
+
+_3z.0.t4-4 add-dir false false false /trunk/CalendarLib/src
+
+_40.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main
+
+_42.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/AndroidManifest.xml
+
+_44.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java
+
+_45.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com
+
+_47.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/antonyt
+
+_49.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/antonyt/infiniteviewpager
+
+_4b.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/antonyt/infiniteviewpager/InfinitePagerAdapter.java
+
+_4d.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/antonyt/infiniteviewpager/InfiniteViewPager.java
+
+_4e.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v
+
+_4f.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar
+
+_4h.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/FlexibleCalendarGridAdapter.java
+
+_4j.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/FlexibleCalendarHelper.java
+
+_4k.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/FlexibleCalendarView.java
+
+_4l.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/MonthViewPager.java
+
+_4m.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/MonthViewPagerAdapter.java
+
+_4n.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/WeekdayNameDisplayAdapter.java
+
+_4o.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/entity
+
+_4p.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/entity/CalendarEvent.java
+
+_4r.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/entity/Event.java
+
+_4s.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/entity/SelectedDateItem.java
+
+_4t.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/exception
+
+_4u.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/exception/HighValueException.java
+
+_4w.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view
+
+_4x.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/BaseCellView.java
+
+_4z.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/CircularEventCellView.java
+
+_50.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/EventCountCellView.java
+
+_51.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/ICellViewDrawer.java
+
+_52.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/IDateCellViewDrawer.java
+
+_53.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/IWeekCellViewDrawer.java
+
+_54.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/SquareCellView.java
+
+_55.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/impl
+
+_56.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/impl/DateCellViewImpl.java
+
+_58.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/impl/WeekdayCellViewImpl.java
+
+_59.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/res
+
+_5a.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/res/drawable
+
+_5c.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/drawable/cell_background.xml
+
+_5e.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/drawable/cell_transparent_background.xml
+
+_5f.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/drawable/circular_background.xml
+
+_5g.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/drawable/circular_background_red.xml
+
+_5h.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/res/layout
+
+_5i.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/layout/day_list_item.xml
+
+_5k.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/layout/month_grid_layout.xml
+
+_5l.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/layout/square_cell_layout.xml
+
+_5m.0.t4-4 add-dir false false false /trunk/CalendarLib/src/main/res/values
+
+_5n.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/values/attrs_calendar.xml
+
+_5p.0.t4-4 add-file true false false /trunk/CalendarLib/src/main/res/values/colors.xml
+
+_5q.0.t4-4 add-file true false false /trunk/ZTCJ.iml
+
+_5r.0.t4-4 add-file true false false /trunk/build.gradle
+
+_5s.0.t4-4 add-dir false false false /trunk/gradle
+
+_5t.0.t4-4 add-dir false false false /trunk/gradle/wrapper
+
+_5v.0.t4-4 add-file true false false /trunk/gradle/wrapper/gradle-wrapper.jar
+
+_5v.0.t4-4 modify-file false true false /trunk/gradle/wrapper/gradle-wrapper.jar
+
+_5x.0.t4-4 add-file true false false /trunk/gradle/wrapper/gradle-wrapper.properties
+
+_5y.0.t4-4 add-file true false false /trunk/gradle.properties
+
+_5z.0.t4-4 add-file true false false /trunk/gradlew
+
+_60.0.t4-4 add-file true false false /trunk/gradlew.bat
+
+_61.0.t4-4 add-file true false false /trunk/import-summary.txt
+
+_62.0.t4-4 add-file true false false /trunk/local.properties
+
+_63.0.t4-4 add-file true false false /trunk/photoLib/photoLib.iml
+
+_65.0.t4-4 add-file true false false /trunk/refreshlib/.gitignore
+
+_67.0.t4-4 add-file true false false /trunk/refreshlib/refreshlib.iml
+
+_68.0.t4-4 add-file true false false /trunk/settings.gradle
+
+_3v.0.t4-4 modify-file true false false /trunk/CalendarLib/CalendarLib.iml
+
+_17.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_42.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/AndroidManifest.xml
+
+_5g.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/res/drawable/circular_background_red.xml
+
+_4s.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/entity/SelectedDateItem.java
+
+_4d.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/antonyt/infiniteviewpager/InfiniteViewPager.java
+
+_3x.0.t4-4 modify-file true false false /trunk/CalendarLib/library.iml
+
+_5z.0.t4-4 modify-file true false false /trunk/gradlew
+
+_5n.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/res/values/attrs_calendar.xml
+
+_1t.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_galleryfinal_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_4b.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/antonyt/infiniteviewpager/InfinitePagerAdapter.java
+
+_x.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin
+
+_65.0.t4-4 modify-file true false false /trunk/refreshlib/.gitignore
+
+_67.0.t4-4 modify-file true false false /trunk/refreshlib/refreshlib.iml
+
+_5r.0.t4-4 modify-file true false false /trunk/build.gradle
+
+_3r.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_refreshlib_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock
+
+_50.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/EventCountCellView.java
+
+_3t.0.t4-4 modify-file true false false /trunk/CalendarLib/.gitignore
+
+_33.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_27.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_okhttputils_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+
+_2t.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_photoLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_4z.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/view/CircularEventCellView.java
+
+_63.0.t4-4 modify-file true false false /trunk/photoLib/photoLib.iml
+
+_4k.0.t4-4 modify-file true false false /trunk/CalendarLib/src/main/java/com/p_v/flexiblecalendar/FlexibleCalendarView.java
+
+_a.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/taskArtifacts/fileHashes.bin
+
+_v.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_CalendarLib_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock
+
+_1d.0.t4-4 modify-file true false false /trunk/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin
+

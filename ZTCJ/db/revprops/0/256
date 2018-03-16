@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-11-01T10:19:40.968790Z
+K 7
+svn:log
+V 228
+2017.11.1：
+1、分离系统消息和活动消息的时间，让消息提醒更精准
+2、解决APP死后，Activity无法重复开启，原因主界面没有开启
+3、解决华为手机弹框没有在指定的View下面的bug
+END

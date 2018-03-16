@@ -1,0 +1,24 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-19T10:17:28.921706Z
+K 7
+svn:log
+V 591
+2017.9.18：
+1、解决测试bug{
+  1、/user/register.html  注册/user/getcode.html 获取验证码 /user/verifycode.html 验证手机验证码
+      /user/login.html 登录/user/restpassword.html 找回重置密码 添加areaCode
+  2、公告添加支持html格式类型文件
+  3、内参文章不设置为单一任务栈
+  4、快讯颜色变化与行情统一
+  5、文章添加颜色变化
+  6、个人中心加上resume()以防止不刷新成功
+  7、自选股顶部没有刷新颜色变化
+  8、验证码时间计时error时重置，港股通图表未刷新的bug，invitation()
+}
+END

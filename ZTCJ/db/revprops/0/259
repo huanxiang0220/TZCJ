@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-11-06T03:33:29.745772Z
+K 7
+svn:log
+V 270
+2017.11.6：
+1、解决不通applicationId不能安装在同一个手机上的bug(应用组件的命名与已安装应用有冲突)
+原因：provide的authorities一样(依赖包默认为release，故主项目debug和release打包时得到的都是release的authorities)
+END

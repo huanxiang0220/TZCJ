@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-29T08:06:08.251123Z
+K 7
+svn:log
+V 69
+2017.9.29：
+1、解决测试bug{
+  1、updateapp，删除app_name
+ }
+END

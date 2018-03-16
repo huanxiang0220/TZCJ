@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2018-01-17T11:52:49.700201Z
+K 7
+svn:log
+V 68
+2017.1.17： 
+解决快讯崩溃的原因：背景选择器找不到
+END

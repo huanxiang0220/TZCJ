@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-29T08:03:36.953470Z
+K 7
+svn:log
+V 129
+2017.9.29：
+1、解决测试bug{
+  1、修改插件化的build.gradle，authorityName改成动态获取当前的applicationId
+ }
+END

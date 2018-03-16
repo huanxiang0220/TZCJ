@@ -1,0 +1,25 @@
+K 10
+svn:author
+V 13
+Administrator
+K 15
+svn:check-locks
+V 4
+true
+K 8
+svn:date
+V 27
+2017-05-09T05:47:43.455161Z
+K 7
+svn:log
+V 12
+智通财经
+K 29
+svn:txn-client-compat-version
+V 5
+1.9.4
+K 18
+svn:txn-user-agent
+V 42
+SVN/1.9.4 (x64-microsoft-windows) ra_local
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-20T09:04:28.249923Z
+K 7
+svn:log
+V 115
+2017.9.18：
+1、解决测试bug{
+  1、KPostActivity添加多种不支持的类型时，吊起第三方APP打开
+}
+END

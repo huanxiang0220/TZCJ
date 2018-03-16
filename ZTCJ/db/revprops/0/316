@@ -1,0 +1,27 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2018-01-17T11:37:27.371447Z
+K 7
+svn:log
+V 498
+2017.1.17： 解决4.4版本奔溃的原因并适配到4.0版本：
+1、compile 'com.android.support:multidex:1.0.1'（可选）
+2、defaultConfig{（必选）
+    multiDexEnabled true
+}
+3、APPlication加入
+@Override
+    protected void attachBaseContext(Context base) {（必选）
+        super.attachBaseContext(base);
+        MultiDex.install(this);
+    }
+   4、<application（可选）
+             android:name=".BaseApplication"
+             android:allowBackup="true">
+     </application>
+END

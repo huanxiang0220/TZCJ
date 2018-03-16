@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-28T09:08:59.307757Z
+K 7
+svn:log
+V 87
+2017.8.28：
+1、投资备忘日历修复当日不显红的bug，解决办法详见TODO
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-09-22T06:44:35.815827Z
+K 7
+svn:log
+V 104
+2017.9.20：
+1、解决测试bug{
+  1、资产负债表bug修复，baseLine + angle >titleTop时超出
+}
+END

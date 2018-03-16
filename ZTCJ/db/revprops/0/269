@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-11-07T12:26:35.634461Z
+K 7
+svn:log
+V 85
+2017.11.7：
+1、pdfPlugin加入判断armeabi的处理通通下载armeabi的处理器
+END

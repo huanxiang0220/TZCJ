@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-10-30T07:44:15.161296Z
+K 7
+svn:log
+V 91
+2017.10.30：
+1、消息列表保存-消息提醒的最新时间saveInformationPromptTime()
+END

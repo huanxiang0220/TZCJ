@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2017-08-18T08:40:04.030595Z
+K 7
+svn:log
+V 213
+2017.8.18：
+1、添加scrollTabs，并添加行情指示图标
+2、港股通百分百换成服务端字段，
+3、Only the original thread that created a view hierarchy can touch its views.(截屏失败的原因)
+END
